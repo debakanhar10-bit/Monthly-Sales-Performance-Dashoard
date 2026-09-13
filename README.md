@@ -6,6 +6,8 @@ An interactive Microsoft Excel dashboard designed to analyze and visualize sales
 
 This project converts raw sales data into an easy-to-use analytical dashboard. It provides key business metrics and interactive visualizations to understand sales trends, profitability, customer activity, and product performance.
 
+![Dashboard Preview](dashboard.png)
+
 ## 🧰 Tools Used
 
 - Microsoft Excel
